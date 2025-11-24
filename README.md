@@ -1,4 +1,4 @@
-# Java-Assignment
+# Java-Lab-Assignment-2
 By : Pranav Garg , Roll No. : 2401010034
 Advanced Student Management System
 
